@@ -1,0 +1,25 @@
+.grid{
+    display:grid;
+    grid-template-columns: 300px 300px 300px 300px;   
+}
+.calender
+{
+    background-color:yellow;
+    padding:15px 25px;
+}
+
+.item{
+    background-color: blue;
+    margin:3px;
+    padding: 10px;
+}
+
+.heading{
+    text-align: center;
+    color:black;
+    font-style: italic ;
+    font-size:large;
+    
+    
+
+}
